@@ -14,6 +14,6 @@ Images source: [LeetCode](https://leetcode.com)
 
 ## **Take a look at My Leetcode dashboard** 
 <p align="center">
-  <img src="https://github.com/naman-dixit00/Overall-Status-/blob/main/qrcode_leetcode.com.png" alt="Meri Image" width="800" height="700"/>
+  <img src="https://github.com/naman-dixit00/Overall-Status-/blob/main/qrcode_leetcode.com.png" alt="Meri Image" width="300" height="300"/>
 </p>
 
