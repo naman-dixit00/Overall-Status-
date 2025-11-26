@@ -1,2 +1,6 @@
 # Overall-Status-
-This repository contains the details about my overall status report on kaggle github leetcode etc .
+ .
+## **Take a look at my leetcode badges** 
+<p align="center">
+  <img src="https://github.com/naman-dixit00/naman-dixit00/blob/main/Github%20badges.jpeg" alt="Meri Image" width="800" height="500"/>
+</p>
