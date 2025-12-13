@@ -17,3 +17,7 @@ Images source: [LeetCode](https://leetcode.com)
   <img src="https://github.com/naman-dixit00/Overall-Status-/blob/main/qrcode_leetcode.com.png" alt="Meri Image" width="300" height="300"/>
 </p>
 
+## **My Recent Victory on Leetcode** 
+<p align="center">
+  <img src="https://github.com/naman-dixit00/Overall-Status-/blob/main/leetcode%20200%20badge.png" alt="Meri Image" width="300" height="300"/>
+</p>
