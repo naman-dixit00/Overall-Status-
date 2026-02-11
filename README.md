@@ -21,10 +21,10 @@
   <table>
     <tr>
       <td style="text-align: center; padding: 10px;">
-        <img src="https://github.com/naman-dixit00/Overall-Status-/blob/main/qrcode_leetcode.com.png" alt="Leetcode QR Code" width="300" height="300"/>
+        <img src="https://github.com/naman-dixit00/Overall-Status-/blob/main/Leetcode%20Status/leetcode%20200%20badge.png" alt="Leetcode QR Code" width="300" height="300"/>
       </td>
       <td style="text-align: center; padding: 10px;">
-        <img src="https://github.com/naman-dixit00/Overall-Status-/blob/main/leetcode%20200%20badge.png" alt="My Recent Victory Badge" width="450" height="270"/>
+        <img src="https://github.com/naman-dixit00/Overall-Status-/blob/main/Leetcode%20Status/qrcode_leetcode.com%20(1).png" alt="My Recent Victory Badge" width="450" height="270"/>
       </td>
     </tr>
   </table>
@@ -34,7 +34,7 @@
 
 ## **Contributions for Leetcode Community -** 
 <p align="center">
-  <img src="https://github.com/naman-dixit00/Overall-Status-/blob/main/leetcode%20community%20contribution.png" width="1000" height="700"/>
+  <img src="https://github.com/naman-dixit00/Overall-Status-/blob/main/Leetcode%20Status/leetcode%20community%20contribution.png" width="1000" height="700"/>
 </p>
 
 ---
