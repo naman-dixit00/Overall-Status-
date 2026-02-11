@@ -3,7 +3,7 @@
 
 ## **Checkout my leetcode progress -** 
  <p align="center">
-  <img src="https://github.com/naman-dixit00/DSA-Cheat-Sheet-/blob/main/Leetcode%20Dashboard.jpeg" alt="Meri Image" width="1000" height="500"/>
+  <img src="https://github.com/naman-dixit00/Overall-Status-/blob/main/Leetcode%20Status/Leetcode%20Progress%20bar.png" alt="Meri Image" width="1000" height="500"/>
 </p>
 
 ---
