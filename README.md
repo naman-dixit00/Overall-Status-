@@ -47,7 +47,7 @@
 ---
 ## **Kaggle Dashboard** 
 <p align="center">
-  <img src="https://github.com/naman-dixit00/Overall-Status-/blob/main/Kaggle%20%20Status/Kaggle%20Dataset%20Expert.png" width="1000" height="700"/>
+  <img src="https://github.com/naman-dixit00/Overall-Status-/blob/main/Kaggle%20%20Status/Kaggle%20Progress.png" width="1000" height="700"/>
 </p
  
 ---
